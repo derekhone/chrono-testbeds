@@ -119,3 +119,9 @@ CHRONO extends the ExecutionProof patent family with a **temporal** entropy/auth
 ---
 
 *To God be the glory. Proof Before Power. Verification Before Execution.*
+
+## Defensive Publication (Zenodo)
+- **DOI (version):** 10.5281/zenodo.21430455
+- **Record:** https://zenodo.org/records/21430455
+- **License:** CC BY 4.0
+- Published 2026-07-18 as defensive publication (establishes public prior art; core RF classical governance/crypto IP already protected by filed provisionals/nonprovisional).
