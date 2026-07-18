@@ -1,0 +1,40 @@
+{
+  "schema_version": "chrono-proofrecord-1.0",
+  "chrono_nonce": "2debb6ec00ccfd937c791352849769c742bb5020725bde49864302f0e11a0473",
+  "temporal_witness": {
+    "witness_type": "leggett_garg_temporal_K3",
+    "K3": 1.45,
+    "correlators": {
+      "C12": 0.493,
+      "C23": 0.461,
+      "C13": -0.496
+    },
+    "theta_radians": 1.0471975511965976,
+    "macrorealist_bound": 1.0,
+    "luders_quantum_bound": 1.5,
+    "ideal_K3": 1.5,
+    "shots_per_correlator": 2000,
+    "sigma_K3": 0.03389995575218351,
+    "excess_over_bound": 0.44999999999999996,
+    "n_sigma": 13.274353609473819,
+    "violation": true,
+    "significant_violation_3sigma": true,
+    "loopholes_open": {
+      "non_invasive_measurability": true,
+      "clumsiness": true,
+      "single_system": true
+    },
+    "device_independent": false,
+    "certified_randomness": false,
+    "claim": "Observed temporal correlations violating the macrorealist bound K3<=1 on quantum hardware, under the non-invasive-measurability assumption. NOT a loophole-free refutation of macrorealism; NOT device-independent certified randomness."
+  },
+  "raw_counts_hash": "e541e55e309c85de2a7e1333b676735cb00f2a802490c077faeb476033458f71",
+  "calibration_hash": "ffda89721653a173441e61bf2fd6fc8ff21e133f579802e1601aeb69bbb9f2f4",
+  "witness_hash": "b47d13fec9da401e671eb735562b4fd7d9bb6199846cb85d490fd281724b724e",
+  "job_id": "d9dkj6ineu4c739nddrg",
+  "backend": "ibm_fez",
+  "provider_instance": "open-instance",
+  "context_id": "chrono-1-primary",
+  "timestamp_utc": "2026-07-18T13:03:05Z",
+  "record_hash": "42472a7158de0c11b0960c834cac902237c4e606dc43df7a34f1971dccfb3d2b"
+}
