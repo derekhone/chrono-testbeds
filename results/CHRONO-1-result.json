@@ -1,0 +1,35 @@
+{
+  "K3": 1.45,
+  "correlators": {
+    "C12": 0.493,
+    "C23": 0.461,
+    "C13": -0.496
+  },
+  "witness": {
+    "witness_type": "leggett_garg_temporal_K3",
+    "K3": 1.45,
+    "correlators": {
+      "C12": 0.493,
+      "C23": 0.461,
+      "C13": -0.496
+    },
+    "theta_radians": 1.0471975511965976,
+    "macrorealist_bound": 1.0,
+    "luders_quantum_bound": 1.5,
+    "ideal_K3": 1.5,
+    "shots_per_correlator": 2000,
+    "sigma_K3": 0.03389995575218351,
+    "excess_over_bound": 0.44999999999999996,
+    "n_sigma": 13.274353609473819,
+    "violation": true,
+    "significant_violation_3sigma": true,
+    "loopholes_open": {
+      "non_invasive_measurability": true,
+      "clumsiness": true,
+      "single_system": true
+    },
+    "device_independent": false,
+    "certified_randomness": false,
+    "claim": "Observed temporal correlations violating the macrorealist bound K3<=1 on quantum hardware, under the non-invasive-measurability assumption. NOT a loophole-free refutation of macrorealism; NOT device-independent certified randomness."
+  }
+}
