@@ -1,0 +1,12 @@
+{
+  "job_id": "d9dkj6ineu4c739nddrg",
+  "backend": "ibm_fez",
+  "shots_per_correlator": 2000,
+  "timestamp_utc": "2026-07-18T09:38:35Z",
+  "correlator_order": [
+    "C12",
+    "C23",
+    "C13"
+  ],
+  "submitted": true
+}
