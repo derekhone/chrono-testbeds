@@ -1,7 +1,7 @@
 # CHRONO-1 — Status
 
 **Experiment:** Leggett–Garg temporal-inequality (K3) witness bound into an authorization ProofRecord.
-**Series:** CHRONO (temporal nonclassicality) — distinct from ARK, WITNESS, UIP, BELLWETHER.
+**Series:** CHRONO (temporal nonclassicality) — distinct from ARK, WITNESS, CIF (formerly UIP), BELLWETHER.
 
 ## State
 - Design + harness: COMPLETE
