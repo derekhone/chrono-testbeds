@@ -2,7 +2,11 @@ from qiskit_ibm_runtime import QiskitRuntimeService
 import os
 import json
 
-TOKEN = "REDACTED_IBM_QUANTUM_TOKEN"
+# SECURITY: never hardcode credentials. Read the IBM Quantum token from the environment.
+# A previously hardcoded token here was exposed publicly and must be revoked/rotated.
+TOKEN = os.environ.get("IBM_QUANTUM_TOKEN", "")
+if not TOKEN:
+    raise SystemExit("Set the IBM_QUANTUM_TOKEN environment variable before running this script.")
 JOB_ID = "d9dkj6ineu4c739nddrg"
 RESULT_FILE = "/home/ubuntu/chrono-testbeds/results/CHRONO-1-result.json"
 
