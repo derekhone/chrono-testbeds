@@ -1,3 +1,9 @@
+> **Repository Role:** Preregistered Experiment Series — Leggett-Garg Temporal Witness (CHRONO) · Part of the [Remnant Fieldworks](https://remnantfieldworks.com) research and product ecosystem
+
+**Where this fits:** This repository is part of the Remnant Fieldworks quantum witness research program — a high-adversity test environment for provenance and execution integrity that informs the [ExecutionProof](https://executionproof.io) governance architecture. The quantum series tests whether nonclassical entropy sources, Bell-inequality violations, and tamper-evident records can serve as authorization evidence components in ProofRecords. CHRONO tests a Leggett-Garg temporal-inequality witness bound into an authorization ProofRecord.
+
+---
+
 # CHRONO-1 — The Temporal Witness
 
 **Remnant Fieldworks Inc. · Coherent Inheritance Framework (CIF) · ExecutionProof-governed**
