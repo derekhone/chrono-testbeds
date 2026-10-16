@@ -102,3 +102,7 @@ python3 src/verify.py
 **Temporal vs. spatial:** Leggett–Garg tests **temporal** correlations (sequential measurements on one system). It is distinct from Bell tests (spatial correlations across separated systems) and does not test local realism or entanglement.
 
 *Proof Before Power · Verification Before Execution · claims kept narrower than the evidence.*
+
+### License scope
+
+See [LICENSE-SCOPE.md](LICENSE-SCOPE.md). The existing report license is preserved; no broader code grant is inferred.
